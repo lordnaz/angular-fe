@@ -1,27 +1,43 @@
-# SerbaFe
+Angular 11
+=================
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+A base of Angular 11 project with Routing Module installed.
 
-## Development server
+## Project Details
+- Project : angular-fe
+- Angular Version : v11
+- CLI Version : 11.2.7
+- Author : Nazrul Hanif
+- Date Created : 20210609
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Contributor
 
-## Code scaffolding
+- Developer 1: [Nazrul Hanif](https://github.com/lordnaz)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Local Setup
 
-## Build
+This Instruction is for the first timer setup.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+1. Install NodeJS automatically with NPM Package (https://nodejs.org/en/download/)
+2. Clone this repo to your local
+3. Dependency Manager : run `npm install` in your cmd. 
+```
+$ npm install
+```
+4. run `ng serve` in your cmd go to localhost:4200 or http://127.0.0.1:4200 (default at port 4200 can be change if require)
+```
+$ ng serve
+```
 
-## Running unit tests
+## Production Building
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+$ ng build --prod
+```
 
-## Running end-to-end tests
+## Support 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+For Support & Inquiry kindly contact me at:-
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Click [here](https://github.com/lordnaz) to go to developer profile.
+- Or email me at nazrul.workspace@gmail.com
